@@ -7,7 +7,7 @@ This repository contains community-driven translations for Aura Video Downloader
 
 Aura Video Downloader loads translations automatically from JSON files inside `aura/translations/`.
 
-If you want to add a new language, you usually do **not** need to change any Python code. In most cases, adding one correct translation file is enough.
+I will add new translations with every new update of the program.
 
 ## 1. Create a New Translation File
 
